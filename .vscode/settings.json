@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "git.confirmSync": false,
+    "workbench.editor.enablePreview": false
+}
